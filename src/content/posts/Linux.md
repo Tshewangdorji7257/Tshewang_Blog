@@ -71,23 +71,23 @@ Sure! Here's a simplified and organized version of your notes on **Linux Distrib
 
 ---
 
-### 🐧 **Linux Distributions (Distros) – Simple Notes**
+### **Linux Distributions (Distros) – Simple Notes**
 
-#### 💡 What is a Linux Distribution?
+#### What is a Linux Distribution?
 - An **operating system** based on the **Linux kernel**.
 - Used in **servers, desktops, mobile phones, embedded systems**, and more.
 - Like different branches of the same company—same core, but customized for different uses.
 
 ---
 
-### 🧩 Key Features of Linux Distros
+### Key Features of Linux Distros
 - **Free**, **open-source**, and **customizable**
 - Includes different **features, packages, and tools**
 - Designed for different users: beginners, professionals, enterprises, etc.
 
 ---
 
-### 🔥 Popular Linux Distros
+### Popular Linux Distros
 - **Ubuntu** – Beginner-friendly, great for desktops
 - **Fedora** – Cutting-edge software, also beginner-friendly
 - **CentOS** – Stable, used for servers (RHEL clone)
@@ -97,7 +97,7 @@ Sure! Here's a simplified and organized version of your notes on **Linux Distrib
 
 ---
 
-### 💻 Why Use Linux?
+### Why Use Linux?
 - Open source = source code is visible and modifiable
 - Highly customizable for any specific task
 - Great for **cybersecurity** because of transparency and flexibility
@@ -105,7 +105,7 @@ Sure! Here's a simplified and organized version of your notes on **Linux Distrib
 
 ---
 
-### 🛡️ Cybersecurity-Focused Distros
+### Cybersecurity-Focused Distros
 - **Kali Linux** – Full suite of hacking and testing tools
 - **ParrotOS** – Lightweight and privacy-focused
 - **BlackArch** – Arch-based, advanced security tools
@@ -114,7 +114,7 @@ Sure! Here's a simplified and organized version of your notes on **Linux Distrib
 
 ---
 
-### 📦 About **Debian**
+### About **Debian**
 - Known for: **Stability, Reliability, Security**
 - Great for: **Servers, desktops, embedded systems**
 - Uses **APT (Advanced Package Tool)** for easy software updates
@@ -124,7 +124,7 @@ Sure! Here's a simplified and organized version of your notes on **Linux Distrib
 
 ---
 
-### ✅ Summary
+### Summary
 - Linux distros serve different use cases.
 - Cybersecurity experts prefer open-source and secure systems.
 - Debian stands out for its reliability and strong security.
