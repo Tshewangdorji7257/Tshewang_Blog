@@ -13,7 +13,7 @@ draft: false
 ## Introduction
 In modern software systems, data is growing rapidly. Applications like social media, online shopping platforms, ride-sharing apps, and IoT devices generate **huge volumes of data every second**.
 
-Traditional databases (SQL or relational databases) are powerful, but they can struggle when:
+Traditional databases (SQL or relational databases) are powerful but they can struggle when:
 - Data becomes too large (Big Data)
 - Data structure keeps changing
 - Systems need to handle millions of users at the same time
@@ -59,7 +59,7 @@ Imagine building a **social media app**:
 - It can scale by adding more servers
 
 
-## 🔹 Key Features of NoSQL
+##  Key Features of NoSQL
 
 ![alt text](../../assets/image.png)
 
@@ -520,25 +520,9 @@ When designing a system, consider:
 * Libraries
 * Cloud services
 
-
-## Mini Case Study: Ride-Sharing App
-
-Designing a system like Uber:
-
-| Feature       | Database                |
-| ------------- | ----------------------- |
-| User profiles | Document DB             |
-| Live location | Key-value / Time-series |
-| Trip history  | Column-family           |
-| Payments      | Relational DB           |
-
-This is called **Polyglot Persistence**
-(using multiple databases for different needs)
-
-
 ##  Common Mistakes
 
-*  Thinking NoSQL replaces SQL
+*  Thinking that NoSQL replaces SQL
 *  Ignoring CAP theorem
 *  Using NoSQL for financial systems
 *  Designing like relational databases
