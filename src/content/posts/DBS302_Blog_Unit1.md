@@ -34,7 +34,7 @@ NoSQL stands for **“Not Only SQL.”**
 
 It is a type of database that does not rely only on tables and rows like traditional relational databases.
 
-### Definition (Exam-Ready)
+### Definition 
 NoSQL databases are **non-relational databases** that store data using flexible schemas and alternative data models such as key-value, document, column-family, and graph, designed for **scalability and high availability**.
 
 In simple words:  
