@@ -1,9 +1,9 @@
 ---
-title:  Introduction to NoSQL Databases
+title:  Key-Value Databases (Redis)
 published: 2026-04-29
 description: A simple note about NoSQL Databases.
 tags: [Markdown, Blogging]
-category:  Key-Value Databases (Redis)
+category:  NoSQL Databases
 draft: false
 ---
 

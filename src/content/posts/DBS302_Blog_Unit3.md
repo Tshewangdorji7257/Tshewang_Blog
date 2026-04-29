@@ -1,9 +1,9 @@
 ---
-title:  Introduction to NoSQL Databases
+title:  Unit III: Document Stores (MongoDB)
 published: 2026-04-29
 description: A simple note about NoSQL Databases.
 tags: [Markdown, Blogging]
-category:  Unit III: Document Stores (MongoDB)
+category:  NoSQL Databases
 draft: false
 ---
 

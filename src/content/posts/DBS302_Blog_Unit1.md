@@ -3,7 +3,7 @@ title:  Introduction to NoSQL Databases
 published: 2026-03-21
 description: A simple note about NoSQL Databases.
 tags: [Markdown, Blogging]
-category:  Introduction to NoSQL Databases
+category:  NoSQL Databases
 draft: false
 ---
 
